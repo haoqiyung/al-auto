@@ -1,9 +1,8 @@
 <div align=center>
 
-# Aliyun Auto Signin
+# Al Auto Signin
 
-![GitHub release](https://img.shields.io/github/v/release/ImYrS/aliyun-auto-signin)
-![wakatime](https://wakatime.com/badge/user/92b8bbab-18e1-4e0c-af6d-082cc16c9d8a/project/0547bf5c-f66c-4798-ab89-96ddb017fef7.svg)
+[![Aliyun Signin](https://github.com/haoqiyung/al-auto/actions/workflows/signin.yml/badge.svg)](https://github.com/haoqiyung/al-auto/actions/workflows/signin.yml)
 
 项目用于自动实现阿里云盘的每日签到活动.  
 **支持 GitHub Action , 无需服务器即可实现每日自动签到.**
@@ -12,7 +11,7 @@
 
 ----
 
-### [🔥推荐使用 Action 签到🔥](https://github.com/ImYrS/aliyun-auto-signin/blob/main/How-To-Use-Action.md)
+### 🔥推荐使用 Action 签到🔥
 
 0 成本 | 自动更新 | 支持推送 | 无需维护
 </div>
@@ -30,7 +29,7 @@
 
 ## 本地运行使用方法
 
-*[GitHub Action 使用方法](https://github.com/ImYrS/aliyun-auto-signin/blob/main/How-To-Use-Action.md)*
+*GitHub Action 使用方法
 
 1. Clone 本项目到本地或下载 Release 版本
 2. 环境安装
@@ -108,10 +107,4 @@
   - `smtp_receiver`: 收件人地址, 仅支持单个收件人
   - 推荐使用 Microsoft Outlook 作为 SMTP 服务器
 
-- 欢迎 PR 更多推送渠道
 
-## 其他
-
-- 欢迎在 [Issues](https://github.com/ImYrS/aliyun-auto-signin/issues) 中反馈 Bug
-- 你的 Star :star: 是我维护的动力
-- PRs are welcome
